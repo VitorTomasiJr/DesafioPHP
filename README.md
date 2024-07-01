@@ -6,7 +6,10 @@ Para o funcionamento do projeto é necessario possuir:
   - PHP
   - Nodejs
   - PostgreSQL
-Após instalar todos as pendencias verificar no arquivo php.ini (encontra-se na raiz da pasta de instalação do php) e habilitar as seguintes extensões: extension=pdo_pgsql extension=pgsql
+
+Após instalar todos as pendencias verificar no arquivo php.ini (encontra-se na raiz da pasta de instalação do php) e habilitar as seguintes extensões:
+  - extension=pdo_pgsql
+  - extension=pgsql
 
 Para iniciar o servidor em PHP é necessario apenas rodar o comando php -S localhost:8080.
 

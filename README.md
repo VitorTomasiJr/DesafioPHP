@@ -13,4 +13,4 @@ Para iniciar o servidor em PHP é necessario apenas rodar o comando php -S local
 Caso necessário alterar a porta de inicializado do back-end é necessario alterar o caminho em config.js no projeto do front-end
 
 ### IMPORTANTE ###
-o arquivo sql esta no projeto DesafioPHP
+o arquivo sql esta no projeto DesafioPHP - desafiodb.sql
